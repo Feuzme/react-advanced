@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Decription 
+
+Mock up project with a nav bar a modal and example of the use of hooks in a react app.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
